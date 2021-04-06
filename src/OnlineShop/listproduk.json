@@ -1,0 +1,80 @@
+
+{ "posts":
+    [   {
+            "id": 1, 
+            "nama": "Quantum Light-Emitting Diode", 
+            "harga": 2700000,
+            "gambar":"https://m.media-amazon.com/images/I/51Sfw-hLsPL.jpg",   
+            "stok": 1
+        }, 
+
+        { 
+            "id": 2, 
+            "nama": "Organic Light-Emitting Diode (OLED) Display",
+            "harga": 3241000, 
+            "gambar":"https://m.media-amazon.com/images/I/41NXNRwHccL.jpg", 
+            "stok": 6
+        }, 
+
+        { 
+            "id": 3, 
+            "nama": "LED TVs", 
+            "harga": 5400000, 
+            "gambar":"https://m.media-amazon.com/images/I/41yjPGXvFZL.jpg", 
+            "stok": 7
+        },
+        {
+            "id": 1, 
+            "nama": "Liquid Crystal Display (LCD)", 
+            "harga": 7000000,
+            "gambar":"https://m.media-amazon.com/images/I/41dy70QLw4L.jpg",   
+            "stok": 15 
+        }, 
+
+        { 
+            "id": 2, 
+            "nama": "Digital Light Processing (DLP)",
+            "harga": 4000000, 
+            "gambar":"https://mlpupix9f17o.i.optimole.com/wsEp57E-XWxo2jPT/w:662/h:497/q:90/https://www.homestratosphere.com/wp-content/uploads/2019/11/DLP-TV-nov7.jpg", 
+            "stok": 5 
+        }, 
+
+        { 
+            "id": 3, 
+            "nama": "Plasma Panels", 
+            "harga": 4500000, 
+            "gambar":"https://mlpupix9f17o.i.optimole.com/wsEp57E-6G1OZrvK/w:472/h:333/q:90/https://www.homestratosphere.com/wp-content/uploads/2019/11/3.Plasma-TV-nov7.png", 
+            "stok": 9
+        },
+        {
+            "id": 1, 
+            "nama": "Direct TV", 
+            "harga": 8000000,
+            "gambar":"https://mlpupix9f17o.i.optimole.com/wsEp57E-haFA_QRu/w:662/h:441/q:90/https://www.homestratosphere.com/wp-content/uploads/2019/11/2.Direct-view-TV-old-school-nov7.jpg",   
+            "stok": 14
+        }, 
+
+        { 
+            "id": 2, 
+            "nama": "Flat Screen",
+            "harga": 14000000, 
+            "gambar":"https://m.media-amazon.com/images/I/41ZnJqCBuIL.jpg", 
+            "stok": 3
+        }, 
+
+        { 
+            "id": 3, 
+            "nama": "Curved Screen", 
+            "harga": 20000000, 
+            "gambar":"https://m.media-amazon.com/images/I/51gnTCiC1BL.jpg", 
+            "stok": 7
+        },
+        { 
+            "id": 3, 
+            "nama": "720p TV", 
+            "harga": 5008000, 
+            "gambar":"https://m.media-amazon.com/images/I/41BS3eLBuPL.jpg", 
+            "stok": 12
+        }
+    ]
+}

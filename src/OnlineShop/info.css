@@ -1,0 +1,10 @@
+.center {
+  text-align: center;
+}
+.centerDiv{
+  display: flex;
+  margin: 30px;
+}
+p{
+  font-size: 27px;
+}
